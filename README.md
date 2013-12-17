@@ -20,3 +20,7 @@ wrappedFunction('hello', fooFunction); // function sees arg1='hello', arg2=undef
 wrappedFunction({prop1: 1, prop2: 2, prop4: 4}); // function sees arg1=undefined, arg2=[object], arg3=undefined
 wrappedFunction(fooFunction); // function sees arg1=undefined, arg2=undefined, arg3=fooFunction
 ```
+
+## Next steps ##
+ - Mandatory arguments (throws if not present)
+ - Splats
