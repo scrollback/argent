@@ -1,0 +1,25 @@
+{
+  "name": "argent",
+  "version": "0.1.0",
+  "description": "Declarative handling of optional parameters",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/scrollback/argent"
+  },
+  "keywords": [
+    "optional",
+    "parameters",
+    "function"
+  ],
+  "author": "scrollback",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "39159030af810ddb9cbfdc18eb9e7ffa15f04231",
+  "bugs": {
+    "url": "https://github.com/scrollback/argent/issues"
+  }
+}
